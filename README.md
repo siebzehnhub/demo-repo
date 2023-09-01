@@ -1,3 +1,1 @@
-# Description
-
-Hier ist ein Text !
+Dieses DemoRepo ist lediglich für den Gebrauch von Git vorhanden‚
